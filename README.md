@@ -16,3 +16,5 @@ Testing Accuracy: 74.14%
 Accuracy Gap: 2.77% (Confirms the model is generalized and not overfitted)
 ROC-AUC Score: 0.82Key Insights (Feature Importance)
 The Random Forest model identified the following as the top three predictors of diabetes:General Health (GenHlth)High Blood Pressure (HighBP)Body Mass Index (BMI)
+
+Project Link - https://diabriskapp-aey3ejqjrdqeuqpyujszxa.streamlit.app/
